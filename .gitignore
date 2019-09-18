@@ -1,0 +1,41 @@
+# Compiled class file
+.idea/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+/target
+/out
+/classes
+/checkouts
+/.lein-*
+/.env
+.DS_Store
+*/target
+.svn
+.project
+.settings
+.classpath
+/log
+/tmp
+hotspot.log
+
+# IntelliJ project files
+out
+gen
+/*/target/
+/target/
+/logs/
+/*/module*.xml
+/*/logs/
